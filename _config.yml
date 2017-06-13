@@ -1,0 +1,42 @@
+# Site settings
+title: Jourdan Rodrigues
+email: thiagojourdan@gmail.com
+url: https://jourdanrodrigues.github.io/
+description: "Let me introduce myself. :)"
+keywords: "Developer Full Stack"
+skills: "Full Stack Developer"
+meta_author: Jourdan Rodrigues
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c
+  primary-rgb: "24,288,156"
+  secondary: 2c3e50
+  secondary-dark: 233140
+
+# Google webmaster tools
+google_verify:
+
+# Footer settings
+footer:
+  social: Around the Web
+
+social:
+  - title: twitter
+    url: https://twitter.com/jourdanrodr
+  - title: facebook
+    url: https://www.facebook.com/t.jourdan.rodrigues
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/4694834/jourdan-rodrigues
+  - title: bitbucket
+    url: https://bitbucket.org/jourdanrodrigues/
+  - title: github
+    url: http://github.com/jourdanrodrigues
+  - title: instagram
+    url: https://www.instagram.com/jourdanrodrigues/
+  - title: linkedin
+    url: https://www.linkedin.com/in/jourdanrodrigues/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
