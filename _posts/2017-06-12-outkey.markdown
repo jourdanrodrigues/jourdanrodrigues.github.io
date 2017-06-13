@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+img: outkey.png
+alt: image-alt
+client: Deway
+client-url: https://www.deway.com.br/
+external-url: http://outkey.com.br/
+role: Backend Development
+description: A mobile app to make condominiums' access easy and secure.
+---
