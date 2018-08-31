@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jourdan Rodrigues' Portfolio
+# Jourdan Rodrigues' Presentation Page
 </div>
 
 ## Local setup

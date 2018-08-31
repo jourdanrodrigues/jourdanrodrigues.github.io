@@ -454,3 +454,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.form-control::placeholder {
+  color: #{{ site.color.secondary }};
+  opacity: .6;
+}
